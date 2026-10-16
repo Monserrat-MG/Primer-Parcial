@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    color:gray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+
+    a:hover{
+        color: chartreuse;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri;
+    }
+}

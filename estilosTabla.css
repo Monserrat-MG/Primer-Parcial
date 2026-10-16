@@ -1,0 +1,14 @@
+table{
+    border-color: red;
+    background:black ;
+    color: aqua;
+    text-align: center;
+    align-items: center;
+}
+td{
+    background: black;
+    color: aqua;
+}
+a{
+        text-decoration: none;
+    }
